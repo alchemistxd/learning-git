@@ -17,3 +17,7 @@ Ma' vaina manin.
 Con ma vaina.
 
 ## Credits
+
+- Christian Vasquez, Lead QA Engineer at Kaleyra
+- Algemil Perez, Linux Server Admin
+- Alexis Lopez
