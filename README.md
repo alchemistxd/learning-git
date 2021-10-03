@@ -9,7 +9,7 @@ Una descripcion vakana.
 3. Profit.
 
 ## Otra vaina
-```
+
 Ma' vaina manin.
 
 ## Otra seccion
