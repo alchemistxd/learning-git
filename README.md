@@ -21,3 +21,9 @@ Con ma vaina.
 - Christian Vasquez, Lead QA Engineer at Kaleyra
 - Algemil Perez, Linux Server Admin
 - Alexis Lopez
+
+### Dependencies
+
+1. Java
+2. TestNG
+3. Selenium
